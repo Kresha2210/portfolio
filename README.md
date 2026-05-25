@@ -20,7 +20,7 @@ A personal portfolio website built with Next.js to showcase projects, education,
 
 ## Getting Started
 
-Live Website: 
+Live Website: https://welcome-to-kresha-portfolio.vercel.app/
 
 ## Project Structure
 
