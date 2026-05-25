@@ -8,6 +8,7 @@ A personal portfolio website built with Next.js to showcase projects, education,
 - About, Education, Platforms, and Contact pages.
 - Responsive layout for desktop and mobile.
 - Direct contact option through email instead of a backend form.
+- Built with help from AI tools during development and content refinement.
 
 ## Tech Stack
 
@@ -19,31 +20,7 @@ A personal portfolio website built with Next.js to showcase projects, education,
 
 ## Getting Started
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-Build for production:
-
-```bash
-npm run build
-```
-
-Start the production server:
-
-```bash
-npm run start
-```
+Live Website: 
 
 ## Project Structure
 
