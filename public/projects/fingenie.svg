@@ -1,0 +1,27 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1100" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#1E3A8A" />
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="180" x2="980" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)" />
+  <circle cx="1020" cy="120" r="140" fill="#38BDF8" fill-opacity="0.12" />
+  <circle cx="180" cy="610" r="170" fill="#A78BFA" fill-opacity="0.12" />
+  <rect x="140" y="160" width="920" height="400" rx="28" fill="#0B1120" fill-opacity="0.6" stroke="white" stroke-opacity="0.14" />
+  <rect x="190" y="214" width="220" height="22" rx="11" fill="white" fill-opacity="0.9" />
+  <rect x="190" y="268" width="520" height="14" rx="7" fill="white" fill-opacity="0.22" />
+  <rect x="190" y="296" width="450" height="14" rx="7" fill="white" fill-opacity="0.18" />
+  <rect x="190" y="360" width="140" height="150" rx="18" fill="url(#accent)" fill-opacity="0.95" />
+  <rect x="356" y="392" width="120" height="118" rx="18" fill="white" fill-opacity="0.12" />
+  <rect x="500" y="334" width="120" height="176" rx="18" fill="white" fill-opacity="0.16" />
+  <rect x="644" y="368" width="120" height="142" rx="18" fill="white" fill-opacity="0.2" />
+  <rect x="788" y="310" width="120" height="200" rx="18" fill="#38BDF8" fill-opacity="0.82" />
+  <path d="M252 486C252 486 282 460 310 446C330 436 342 412 350 392" stroke="#E0F2FE" stroke-width="14" stroke-linecap="round" />
+  <text x="190" y="560" fill="white" fill-opacity="0.96" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Fingenie</text>
+  <text x="190" y="606" fill="white" fill-opacity="0.72" font-family="Arial, Helvetica, sans-serif" font-size="26">Finance insights made simple</text>
+</svg>

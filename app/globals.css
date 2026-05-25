@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: radial-gradient(circle at top, #0f172a, #020617);
+  color: white;
+  font-family: sans-serif;
+}
+
+/* Glass effect */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Glow button */
+.btn {
+  background: #00f5a0;
+  color: black;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  box-shadow: 0 0 15px #00f5a0;
+}
+
+/* Shadow green */
+.shadow-green {
+  box-shadow: 0 0 15px #00f5a0;
+}
+
+/* Green text */
+.text-green {
+  color: #00f5a0;
+}
+
+/* Navbar container */
+/* (removed) */
+
+/* Navbar link */
+/* (removed) */
