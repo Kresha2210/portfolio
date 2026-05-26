@@ -16,7 +16,7 @@ export default function Home() {
             </p>
 
             <div className="flex flex-wrap gap-2 mt-2">
-              {["C++","Python", "SQL", "React", "Next.js", "AI Tools"].map(
+              {["C++","Python", "SQL", "HTML","CSS","Java Script" ,"React", "AI Tools"].map(
                 (t) => (
                   <span
                     key={t}
