@@ -47,7 +47,7 @@ export default function About() {
           I’m a passionate frontend developer with a strong foundation in data
           structures and algorithms and a keen interest in building
           user-centered web applications. I specialize in creating responsive,
-          high-performance interfaces using React and Next.js, turning ideas
+          high-performance interfaces using Java script and React, turning ideas
           into polished, production-ready experiences. I value clean code,
           thoughtful UX, and measurable impact. I actively practice competitive
           programming to sharpen my problem-solving skills and leverage AI tools
